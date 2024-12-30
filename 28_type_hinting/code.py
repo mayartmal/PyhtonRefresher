@@ -17,4 +17,3 @@ class BookShelf:
     def __str__(self) -> str:
         return  f"Book shelf with {len(self.books)} books"
 
-    
